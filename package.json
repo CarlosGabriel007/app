@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "enquirer": "^2.4.1",
     "inquirer": "^10.2.2"
   }
 }
