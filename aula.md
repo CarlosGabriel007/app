@@ -17,24 +17,17 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Fases de resolução de um problema
 
+Coletar os dados
+Processar os dados (manipular, alterar ...)
+Apresentar os dados
 
+## Escopo e variáveis:
 
+- [x] Variáveis globais e locais
+- [x] Constantes
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados:
 
@@ -42,46 +35,32 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - [x] Numbers: 2 1.4
 - [x] Boolean: true, false
 
-# Operadores
+# Operadores 
 
-- [x] Operadores de atribuição de valor =
+- [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
 - [x] Operadores de comparação: == != <= >= < >
-
+- [x] Spread operator: ...
 ## Estrutura de dados:
 
 ### Arrays:
 
-- [x] Uma lista que contém qualquer tipo de dado
+  -[x] Uma lista que contém qualquer tipo de dado 
+  -[x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
+  ### Objetos:
 
+  - [x] Atributos e métodos
+  - [x] Criação e manipulação de objetos
+  - [x] Acesso a propriedades de objetos
 
+  ### Functions
 
+  -[x] criar, passar argumento
+  -[x] executar
+  -[x] arrow function /  named function
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- # Estrutura de repetição
+# Estrutura de repetição
 
  - [x] while
 
@@ -92,8 +71,8 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Módulos em Node.js:
 
- importação de módulos (require, CommonJS)
- Biblioteca 'inquirer' para criar prompts interativos
+ - [x] importação de módulos (require, CommonJS)
+ -[x]  Biblioteca 'inquirer' para criar prompts interativos
 
  ## Programação assincrona e Promises:
 
